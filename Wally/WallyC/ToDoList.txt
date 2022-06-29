@@ -1,0 +1,5 @@
+Load image into image class
+load search image into match class 
+pass large image to Limage
+iterate through limage with search image and store matches of 70% or more
+highlight match and write pgm file.
